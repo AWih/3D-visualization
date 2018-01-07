@@ -1,0 +1,59 @@
+4;-3;3  #vasemman käytävän lähempi seinä
+4;-11;3
+4;-11;-1
+4;-3;-1
+;;
+4;-11;3  #vasemman käytävän pääty
+8;-11;3
+8;-11;-1
+4;-11;-1
+;;
+8;-3;3  #vasemman käytävän taempi seinä
+8;-11;3
+8;-11;-1
+8;-3;-1
+;;
+8;-3;3  #vasen viisto seinä keskellä
+12;0;3
+12;0;-1
+8;-3;-1
+;;
+12;0;3  #oikea viisto seinä keskellä
+8;3;3
+8;3;-1
+12;0;-1
+;;
+8;3;2   #oikean käytävän taempi seinä
+9;12;2
+9;12;-1
+8;3;-1
+;;
+9;12;2  #oikean käytävän pääty
+0;13;2
+0;13;-1
+9;12;-1
+;;
+0;13;2  #oikean käytävän takaseinä
+-2;4;2
+-2;4;-1
+0;13;-1
+;;
+2;3;2  #oikean käytävän väliseinä
+3;9;2
+3;9;-1
+2;3;-1
+;;
+-2;4;2  #takakäytävän oikea seinä
+-10;5;2
+-10;5;-1
+-2;4;-1
+;;
+4;-3;2  #takakäytävän vasen seinä
+-10;-3;2
+-10;-3;-1
+4;-3;-1
+;;
+-10;-3;2  #takakäytävän pääty
+-10;5;2
+-10;5;-1
+-10;-3;-1
